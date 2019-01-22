@@ -8,7 +8,7 @@
 	
 */
 
-#include"pacman_test_speed.h"
+#include"pacman.h"
 
 int main()
 {
